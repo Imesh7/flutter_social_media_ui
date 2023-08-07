@@ -4,6 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
+
+https://github.com/Imesh7/flutter_social_media_ui/assets/50042375/ed797334-513d-4783-8995-f5467aa4f0f9
+
+
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
